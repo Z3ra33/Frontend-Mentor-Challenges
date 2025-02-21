@@ -1,53 +1,65 @@
 
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - Blog Preview Card Solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+  - [Useful Resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
 ## Overview
 
-### The challenge
+### The Challenge
 
 Users should be able to:
 
-- See hover and focus states for all interactive elements on the page
+- See hover and focus states for all interactive elements on the page.
 
 ### Screenshot
 
-![(.desktop-screenshot.png)
-![(./mobile-screenshot.png)
-
+![Desktop Screenshot](./desktop-screenshot.png)
+![Mobile Screenshot](./mobile-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Z3ra33/Frontend-Mentor-Challenges/tree/main/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-challenges-x3b3.vercel.app/)
+- Solution URL: [GitHub Repository](https://github.com/Z3ra33/Frontend-Mentor-Challenges/tree/main/blog-preview-card-main)
+- Live Site URL: [Live Demo](https://frontend-mentor-challenges-x3b3.vercel.app/)
 
-## My process
+## My Process
 
-### Built with
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
+### What I Learned
 
-### What I learned
-It was a good challange for me i learned about box shaodow max width and i did practice previous lesssons.
+This challenge was a great opportunity for me to learn about box shadows and max-width properties. I also practiced concepts from previous lessons.
+
+### Continued Development
+
+I plan to explore more advanced CSS techniques and improve my understanding of responsive design.
+
+### Useful Resources
+
+- [CSS Tricks](https://css-tricks.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Z3ra33)
+
+- Frontend Mentor - [@Z3ra33](https://www.frontendmentor.io/profile/Z3ra33)
+
+## Acknowledgments
+
+Thanks to Frontend Mentor for providing such engaging challenges that help improve my skills.
