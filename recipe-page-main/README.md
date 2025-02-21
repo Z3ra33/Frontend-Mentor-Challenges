@@ -27,7 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL (
+- https://github.com/Z3ra33/Frontend-Mentor-Challenges/tree/main/recipe-page-main)
 - Live Site URL: [Add live site URL here](https://frontend-mentor-challenges-q85j.vercel.app/)
 
 ## My process
