@@ -40,10 +40,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 i think this challange was simple i did practice and learned about ::marker pseodu-element used with list style.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Z3ra33)
