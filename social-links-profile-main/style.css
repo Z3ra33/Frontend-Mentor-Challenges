@@ -25,7 +25,7 @@ body {
 }
 
 .place {
-    line-height: 1px;
+    line-height: 25px;
     color: hsl(75, 94%, 57%);
     font-size: 1.2rem;
 
