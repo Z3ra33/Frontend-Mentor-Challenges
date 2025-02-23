@@ -1,40 +1,37 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR Code Component Solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My Process](#my-process)
+  - [Built With](#built-with)
 - [Author](#author)
-
 
 ## Overview
 
 ### Screenshot
 
-![](./design/Desktop-screenshot.png)
+![Desktop Screenshot](./design/Desktop-screenshot.png)
 
-
-![](./design/mobile-screen-shot.png)
-
-
+![Mobile Screenshot](./design/mobile-screen-shot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-challenges-qr-code.vercel.app/)
+- Solution URL: [GitHub Repository](https://github.com/Z3ra33/Frontend-Mentor-Challenges/tree/main/qr-code-component-main)
+- Live Site URL: [Live Demo](https://frontend-mentor-challenges-qr-code.vercel.app/)
 
-## My process
+## My Process
 
-### Built with
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Z3ra33/)
+
+- Frontend Mentor - [@Z3ra33](https://www.frontendmentor.io/profile/Z3ra33/)
